@@ -1,0 +1,259 @@
+.text{
+    padding-left: 40px;
+    width: 1300px;
+    background-color: rgb(185, 182, 181);
+    padding-top: 10px;
+}
+.text p{
+    color: black !important;
+}
+.logo h2,img{
+    display: inline-block;
+    margin-top: 20px;
+}
+.logo img{
+    margin-left: 20px;
+}
+.logo h2{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   color:rgb(185, 182, 181);
+}
+.search input{
+    width: 340px;
+    margin-top: 35px;
+}
+.searchimg{
+    position: relative;
+    left: 315px;
+    top: -30px;
+}
+.navbar{
+  
+    background-color:rgb(185, 182, 181) !important;
+    width: 1300px;
+}
+.navbar li :hover{
+   color: rgb(196, 193, 193) !important;
+   background-color: white;
+}
+.navbar ul li a{
+    color: rgb(59, 59, 59) !important;
+}
+.navbar ul{
+    padding-left: 150px;
+}
+.navbar-nav li{
+    columns: white !important;
+    padding: 0px 15px;
+}
+.topproduct h1{
+    padding-top: 40px;
+    text-align: center;
+    color: rgb(185, 182, 181);
+}
+.headingCat{
+    color: rgb(185, 182, 181);
+}
+.gourmentcategorie .card{
+    width: 300px;  
+    height: 330px;
+}
+.card img{
+    width: 210px;
+    height: 160px;
+   padding-left: 70px;
+}
+
+ .categories{
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 1px 2px 2px grey;
+    width: 500px;
+    min-height: 180px;
+    max-height: 350px;
+}
+.categories img{
+    width: 170px;
+    height: 150px;
+   margin-top: -15px;
+}
+
+.categories h5,p{
+   margin-left: 10px;
+    text-align: justify;
+} 
+.headingCat h4{
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
+.footmobile img{
+    height: 160px;
+    margin-top: -30px;
+    margin-left: -10px;
+}
+.footcontact p{
+    margin-top: -10px;
+    margin-left: 4px;
+    color: white !important;
+}
+.footsection h5{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.footsection{
+    background-color: rgb(185, 182, 181);
+    background-color: rgb(185, 182, 181);
+    padding-top: 30px;
+    margin-top: 50px;
+    color: white;
+    width: 1270px;
+}
+.footcontact .socialmediaicons{
+   margin-top: -10px;
+   color: white;
+}
+.allproducts{
+    border: 1px solid black;
+}
+.headbutton h4{
+    padding-left: 220px;
+    color: black !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+   
+}
+.pageconversion a,p{
+    display: inline-block;
+    color: grey !important;
+    text-decoration: none;
+    
+}
+.pageconversion a:hover{
+    color:white !important;
+}
+.pageconversion{
+    background-color: rgb(233, 231, 231);
+    margin-top: 10px;
+    padding-top: 12px;
+  
+}
+.gourmentcategorie{
+    padding-top: 30px;
+    line-height: 37px;
+}
+.categorie{
+    border: 1px solid black;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    max-width: 300px;
+    min-width: 200px;
+}
+.subcategories{
+    padding-left: 20px;
+    
+}
+.categorie .fa-arrow-right,.fa-plus{
+    color:rgb(185, 182, 181);
+}
+p .sidebarlink{
+    text-decoration: none;
+    color: rgb(156, 153, 152);
+}
+.categorie h5{
+   padding-left: 30px;
+}
+section .input{
+    width: 310px;
+    height: 40px;
+}
+section .button{
+    width: 310px;
+    height: 35px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: gray;
+    color: white;
+    border-style: none;
+}
+section .input,.textarea,.button{
+    margin: 10px;
+}
+section .message{
+    padding-left: 45px;
+    margin-top: 40px;
+}
+section .map{
+    margin-top: 50px;
+}
+
+.card .bundleimage2{
+    padding-left: 35px;
+}
+.card .card-body{
+    line-height: 5px;
+}
+.card-body{
+    text-align: center;
+}
+.card-body span{
+    text-decoration: line-through;
+}
+.card-body span{
+    padding-left: 20px;
+}
+.card-body p,span{
+    font-weight: lighter;
+}
+.gourmentcategorie .card .bundleimage img{
+   align-items: center;
+}
+.offercard .card{
+    margin-top: 20px;
+    height: 350px;    
+}
+.numbering ul .numbers{
+    background-color: rgb(185, 182, 181);
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    
+}
+.categories .catgorieslinking{
+    text-decoration: none;
+    color: black;
+}
+.productbundleimage img{
+    max-width: 1120px;
+    min-width: 50px;
+}
+.card .card-body button .btn{
+    background-color: orange !important;
+    color: white !important;
+
+}
+.searchimg .searchbutton{
+    text-decoration: none;
+    color:rgb(185, 182, 181) ;
+}
+
+.gourmentcategorie .categorie p a .sidebarlink{
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
